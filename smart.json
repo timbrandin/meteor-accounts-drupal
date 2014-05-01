@@ -1,0 +1,11 @@
+{
+  "name": "accounts-drupal",
+  "description": "Accounts service for Drupal site accounts",
+  "homepage": "",
+  "author": "Tim Brandin <tim.brandin@gmail.com> (http://timbrandin.com)",
+  "version": "0.0.1",
+  "git": "",
+  "packages": {
+    "drupal-services": "0.0.1"
+  }
+}
