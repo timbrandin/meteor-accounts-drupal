@@ -4,6 +4,6 @@ Accounts.addAutopublishFields({
   // localhost).
   forLoggedInUser: ['services.drupal'],
   forOtherUsers: [
-    'services.drupal.uid', 'services.linkedin.username'
+    'services.drupal.uid', 'services.drupal.name', 'services.drupal.mail',
   ]
 });
