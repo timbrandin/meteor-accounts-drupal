@@ -1,7 +1,7 @@
 {
   "name": "accounts-drupal",
   "description": "Accounts service for Drupal site accounts",
-  "homepage": "",
+  "homepage": "https://github.com/timbrandin/meteor-accounts-drupal",
   "author": "Tim Brandin <tim.brandin@gmail.com> (http://timbrandin.com)",
   "version": "0.0.4",
   "git": "https://github.com/timbrandin/meteor-accounts-drupal.git",
