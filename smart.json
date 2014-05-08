@@ -6,6 +6,6 @@
   "version": "0.0.6",
   "git": "https://github.com/timbrandin/meteor-accounts-drupal.git",
   "packages": {
-    "drupal-services": "0.0.3"
+    "drupal-services": "0.0.4"
   }
 }
