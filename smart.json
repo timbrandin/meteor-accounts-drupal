@@ -3,9 +3,9 @@
   "description": "Accounts service for Drupal site accounts",
   "homepage": "https://github.com/timbrandin/meteor-accounts-drupal",
   "author": "Tim Brandin <tim.brandin@gmail.com> (http://timbrandin.com)",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "git": "https://github.com/timbrandin/meteor-accounts-drupal.git",
   "packages": {
-    "drupal-services": "0.0.9"
+    "drupal-services": "0.1.0"
   }
 }
