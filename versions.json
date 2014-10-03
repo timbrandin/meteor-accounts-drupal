@@ -49,10 +49,6 @@
       "1.0.4"
     ],
     [
-      "drupal-services",
-      "0.0.0"
-    ],
-    [
       "ejson",
       "1.0.3"
     ],
@@ -117,6 +113,10 @@
       "1.1.0"
     ],
     [
+      "oauth1",
+      "1.1.0"
+    ],
+    [
       "observe-sequence",
       "1.0.2"
     ],
@@ -159,6 +159,10 @@
     [
       "templating",
       "1.0.7"
+    ],
+    [
+      "timbrandin:drupal-services",
+      "1.0.0"
     ],
     [
       "tracker",

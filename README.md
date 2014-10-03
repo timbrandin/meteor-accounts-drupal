@@ -8,12 +8,10 @@ Package Dependencies
 
 * accounts-base
 * accounts-oauth
-* drupal-services
+* timbrandin:drupal-services
 
 Install
 -----------
 ```
-mrt install accounts-drupal
+meteor add timbrandin:accounts-drupal
 ```
-
-```mrt``` is a Meteorite command line tool. Visit [Meteorite's page](http://oortcloud.github.com/meteorite/) to learn more.
