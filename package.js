@@ -10,9 +10,9 @@ Package.on_use(function (api, where) {
   // Export Accounts (etc) to packages using this one.
   api.imply('accounts-base', ['client', 'server']);
   api.use('accounts-oauth', ['client', 'server']);
-  api.use("timbrandin:drupal-services@1.0.0", ['client', 'server']);
+  api.use("timbrandin:drupal-services@1.0.1", ['client', 'server']);
 
   api.add_files(['drupal-login-button.css'], 'client');
 
-  api.add_files('drupal.js', ['client', 'server']);
+  api.add_files('timbrandin:drupal.js', ['client', 'server']);
 });

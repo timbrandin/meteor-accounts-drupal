@@ -9,7 +9,7 @@ if (Meteor.isClient) {
     }
 
     var credentialRequestCompleteCallback = Accounts.oauth.credentialRequestCompleteHandler(callback);
-    DrupalServices.requestCredential(options, credentialRequestCompleteCallback);
+    DrupalService.requestCredential(options, credentialRequestCompleteCallback);
   };
 }
 else {
